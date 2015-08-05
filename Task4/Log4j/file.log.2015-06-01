@@ -1,0 +1,749 @@
+10:48:33.299 [INFO][xec-6][ab.log.MyLogger] - Load Home login
+10:48:33.603 [INFO][xec-5][ab.log.MyLogger] - Load Home login
+10:48:34.218 [DEBUG][xec-3][ab.log.MyLogger] - Load Home pages
+10:52:53.156 [INFO][ec-11][ab.log.MyLogger] - Load Home login
+10:52:53.384 [DEBUG][xec-2][ab.log.MyLogger] - Load Home pages
+10:54:16.432 [INFO][ec-20][ab.log.MyLogger] - Load Home login
+10:54:16.441 [DEBUG][ec-16][ab.log.MyLogger] - Load Home pages
+11:01:56.224 [INFO][ec-20][ab.log.MyLogger] - Exit
+11:01:56.229 [DEBUG][ec-19][ab.log.MyLogger] - Load Home pages
+11:02:04.017 [INFO][ec-19][ab.log.MyLogger] - Load Home login
+11:02:04.346 [DEBUG][ec-17][ab.log.MyLogger] - Load Home pages
+11:03:41.240 [INFO][ec-23][ab.log.MyLogger] - Exit
+11:03:41.244 [DEBUG][ec-21][ab.log.MyLogger] - Load Home pages
+11:03:48.190 [INFO][ec-29][ab.log.MyLogger] - Load Home login
+11:03:48.388 [DEBUG][ec-14][ab.log.MyLogger] - Load Home pages
+11:03:54.795 [INFO][ec-11][ab.log.MyLogger] - Exit
+11:03:54.799 [DEBUG][ec-29][ab.log.MyLogger] - Load Home pages
+11:04:05.511 [INFO][ec-29][ab.log.MyLogger] - Load Home login
+11:04:05.520 [DEBUG][ec-30][ab.log.MyLogger] - Load Home pages
+11:09:42.334 [INFO][ec-40][ab.log.MyLogger] - Exit
+11:09:42.339 [DEBUG][ec-39][ab.log.MyLogger] - Load Home pages
+11:09:48.571 [INFO][ec-39][ab.log.MyLogger] - Load Home login
+11:09:48.583 [DEBUG][ec-41][ab.log.MyLogger] - Load Home pages
+11:11:53.845 [INFO][ec-39][ab.log.MyLogger] - Load Home login
+11:11:53.852 [DEBUG][ec-41][ab.log.MyLogger] - Load Home pages
+11:12:12.241 [INFO][ec-45][ab.log.MyLogger] - Exit
+11:12:12.248 [DEBUG][ec-39][ab.log.MyLogger] - Load Home pages
+11:12:18.541 [INFO][ec-39][ab.log.MyLogger] - Load Home login
+11:12:18.552 [DEBUG][ec-42][ab.log.MyLogger] - Load Home pages
+11:18:26.249 [INFO][ec-43][ab.log.MyLogger] - Exit
+11:18:26.254 [DEBUG][ec-42][ab.log.MyLogger] - Load Home pages
+11:18:34.010 [INFO][ec-42][ab.log.MyLogger] - Load Home login
+11:18:34.313 [DEBUG][ec-46][ab.log.MyLogger] - Load Home pages
+11:20:00.167 [INFO][ec-39][ab.log.MyLogger] - Exit
+11:20:00.171 [DEBUG][ec-44][ab.log.MyLogger] - Load Home pages
+11:20:06.472 [INFO][ec-44][ab.log.MyLogger] - Load Home login
+11:20:06.731 [DEBUG][ec-53][ab.log.MyLogger] - Load Home pages
+11:21:02.006 [INFO][ec-55][ab.log.MyLogger] - Exit
+11:21:02.011 [DEBUG][ec-56][ab.log.MyLogger] - Load Home pages
+11:21:07.780 [INFO][ec-56][ab.log.MyLogger] - Load Home login
+11:21:08.023 [DEBUG][ec-57][ab.log.MyLogger] - Load Home pages
+11:21:31.351 [INFO][ec-59][ab.log.MyLogger] - Exit
+11:21:31.355 [DEBUG][ec-57][ab.log.MyLogger] - Load Home pages
+11:21:36.432 [INFO][ec-57][ab.log.MyLogger] - Load Home login
+11:21:36.808 [DEBUG][ec-40][ab.log.MyLogger] - Load Home pages
+11:22:06.492 [INFO][ec-62][ab.log.MyLogger] - Exit
+11:22:06.497 [DEBUG][ec-63][ab.log.MyLogger] - Load Home pages
+11:22:12.305 [INFO][ec-63][ab.log.MyLogger] - Load Home login
+11:22:12.314 [DEBUG][ec-65][ab.log.MyLogger] - Load Home pages
+11:22:55.247 [DEBUG][ec-63][ab.log.MyLogger] - Load Home pages
+11:33:15.775 [INFO][ec-72][ab.log.MyLogger] - Exit
+11:33:15.782 [DEBUG][ec-73][ab.log.MyLogger] - Load Home pages
+11:33:21.811 [INFO][ec-73][ab.log.MyLogger] - Load Home login
+11:33:22.189 [DEBUG][ec-74][ab.log.MyLogger] - Load Home pages
+11:34:51.306 [INFO][xec-7][ab.log.MyLogger] - Exit
+11:34:51.313 [DEBUG][xec-8][ab.log.MyLogger] - Load Home pages
+11:34:56.645 [INFO][xec-8][ab.log.MyLogger] - Load Home login
+11:34:57.198 [DEBUG][ec-10][ab.log.MyLogger] - Load Home pages
+11:36:11.612 [INFO][xec-7][ab.log.MyLogger] - Exit
+11:36:11.618 [DEBUG][xec-8][ab.log.MyLogger] - Load Home pages
+11:36:17.878 [INFO][xec-8][ab.log.MyLogger] - Load Home login
+11:36:17.887 [DEBUG][ec-10][ab.log.MyLogger] - Load Home pages
+11:37:27.796 [INFO][xec-4][ab.log.MyLogger] - Exit
+11:37:27.802 [DEBUG][xec-6][ab.log.MyLogger] - Load Home pages
+11:37:33.696 [INFO][xec-7][ab.log.MyLogger] - Load Home login
+11:37:33.935 [DEBUG][xec-1][ab.log.MyLogger] - Load Home pages
+11:38:54.306 [INFO][ec-11][ab.log.MyLogger] - Exit
+11:38:54.312 [DEBUG][ec-12][ab.log.MyLogger] - Load Home pages
+11:39:01.165 [INFO][xec-3][ab.log.MyLogger] - Load Home login
+11:39:01.333 [DEBUG][ec-16][ab.log.MyLogger] - Load Home pages
+11:40:00.280 [INFO][ec-18][ab.log.MyLogger] - Load admin room pages
+11:40:24.995 [DEBUG][ec-22][ab.log.MyLogger] - Load Home pages
+11:40:26.807 [INFO][ec-18][ab.log.MyLogger] - Load course pages
+11:51:38.394 [INFO][ec-25][ab.log.MyLogger] - Exit
+11:51:38.399 [DEBUG][ec-19][ab.log.MyLogger] - Load Home pages
+11:51:44.917 [INFO][ec-19][ab.log.MyLogger] - Load Home login
+11:51:45.191 [DEBUG][ec-18][ab.log.MyLogger] - Load Home pages
+11:55:23.850 [INFO][ec-33][ab.log.MyLogger] - Exit
+11:55:23.855 [DEBUG][ec-26][ab.log.MyLogger] - Load Home pages
+11:55:29.378 [INFO][ec-35][ab.log.MyLogger] - Load Home login
+11:55:29.635 [DEBUG][ec-22][ab.log.MyLogger] - Load Home pages
+11:57:07.790 [INFO][ec-38][ab.log.MyLogger] - Exit
+11:57:07.796 [DEBUG][ec-34][ab.log.MyLogger] - Load Home pages
+11:57:13.710 [INFO][ec-34][ab.log.MyLogger] - Load Home login
+11:57:13.993 [DEBUG][ec-32][ab.log.MyLogger] - Load Home pages
+11:58:23.476 [INFO][ec-47][ab.log.MyLogger] - Load Home login
+11:58:23.747 [DEBUG][ec-40][ab.log.MyLogger] - Load Home pages
+12:08:21.820 [INFO][ec-53][ab.log.MyLogger] - Exit
+12:08:21.825 [DEBUG][ec-52][ab.log.MyLogger] - Load Home pages
+12:08:28.384 [INFO][ec-52][ab.log.MyLogger] - Load Home login
+12:08:28.642 [DEBUG][ec-49][ab.log.MyLogger] - Load Home pages
+12:13:20.292 [INFO][ec-59][ab.log.MyLogger] - Exit
+12:13:20.298 [DEBUG][ec-58][ab.log.MyLogger] - Load Home pages
+12:13:28.753 [INFO][ec-63][ab.log.MyLogger] - Load Home login
+12:13:28.977 [DEBUG][ec-61][ab.log.MyLogger] - Load Home pages
+12:13:55.816 [INFO][ec-66][ab.log.MyLogger] - Exit
+12:13:55.821 [DEBUG][ec-61][ab.log.MyLogger] - Load Home pages
+12:14:01.283 [INFO][ec-68][ab.log.MyLogger] - Load Home login
+12:14:01.292 [DEBUG][ec-65][ab.log.MyLogger] - Load Home pages
+12:14:10.057 [INFO][ec-70][ab.log.MyLogger] - Load Home login
+12:14:10.240 [DEBUG][ec-56][ab.log.MyLogger] - Load Home pages
+12:14:17.038 [INFO][ec-66][ab.log.MyLogger] - Exit
+12:14:17.042 [DEBUG][ec-70][ab.log.MyLogger] - Load Home pages
+12:14:23.650 [INFO][ec-70][ab.log.MyLogger] - Load Home login
+12:14:23.657 [DEBUG][ec-72][ab.log.MyLogger] - Load Home pages
+12:17:32.357 [INFO][ec-79][ab.log.MyLogger] - Exit
+12:17:32.364 [DEBUG][ec-76][ab.log.MyLogger] - Load Home pages
+12:17:41.147 [INFO][ec-76][ab.log.MyLogger] - Load Home login
+12:17:41.413 [DEBUG][ec-72][ab.log.MyLogger] - Load Home pages
+12:18:27.005 [INFO][ec-81][ab.log.MyLogger] - Exit
+12:18:27.010 [DEBUG][ec-72][ab.log.MyLogger] - Load Home pages
+12:18:32.936 [INFO][ec-83][ab.log.MyLogger] - Load Home login
+12:18:32.945 [DEBUG][ec-77][ab.log.MyLogger] - Load Home pages
+12:18:41.394 [INFO][ec-86][ab.log.MyLogger] - Load Home login
+12:18:41.595 [DEBUG][ec-75][ab.log.MyLogger] - Load Home pages
+12:20:25.074 [INFO][ec-74][ab.log.MyLogger] - Exit
+12:20:25.081 [DEBUG][ec-84][ab.log.MyLogger] - Load Home pages
+12:20:30.658 [INFO][ec-84][ab.log.MyLogger] - Load Home login
+12:20:31.117 [DEBUG][ec-83][ab.log.MyLogger] - Load Home pages
+12:21:20.509 [INFO][ec-91][ab.log.MyLogger] - Exit
+12:21:20.514 [DEBUG][ec-83][ab.log.MyLogger] - Load Home pages
+12:21:32.304 [INFO][ec-93][ab.log.MyLogger] - Load Home login
+12:21:32.802 [DEBUG][ec-81][ab.log.MyLogger] - Load Home pages
+12:23:10.637 [INFO][ec-88][ab.log.MyLogger] - Exit
+12:23:10.643 [DEBUG][ec-97][ab.log.MyLogger] - Load Home pages
+12:23:21.837 [INFO][ec-97][ab.log.MyLogger] - Load Home login
+12:23:22.074 [DEBUG][ec-80][ab.log.MyLogger] - Load Home pages
+12:23:30.191 [INFO][c-100][ab.log.MyLogger] - Exit
+12:23:30.196 [DEBUG][ec-80][ab.log.MyLogger] - Load Home pages
+12:23:36.415 [INFO][c-102][ab.log.MyLogger] - Load Home login
+12:23:36.424 [DEBUG][ec-73][ab.log.MyLogger] - Load Home pages
+12:26:26.501 [INFO][c-104][ab.log.MyLogger] - Exit
+12:26:26.506 [DEBUG][c-100][ab.log.MyLogger] - Load Home pages
+12:26:33.330 [INFO][c-100][ab.log.MyLogger] - Load Home login
+12:26:33.605 [DEBUG][c-103][ab.log.MyLogger] - Load Home pages
+12:28:55.134 [INFO][c-107][ab.log.MyLogger] - Exit
+12:28:55.140 [DEBUG][ec-99][ab.log.MyLogger] - Load Home pages
+12:29:02.145 [INFO][ec-99][ab.log.MyLogger] - Load Home login
+12:29:02.440 [DEBUG][c-109][ab.log.MyLogger] - Load Home pages
+12:29:50.890 [INFO][c-115][ab.log.MyLogger] - Exit
+12:29:50.895 [DEBUG][c-109][ab.log.MyLogger] - Load Home pages
+12:29:56.240 [INFO][c-118][ab.log.MyLogger] - Load Home login
+12:29:56.247 [DEBUG][c-105][ab.log.MyLogger] - Load Home pages
+12:30:38.545 [INFO][c-117][ab.log.MyLogger] - Exit
+12:30:38.550 [DEBUG][c-119][ab.log.MyLogger] - Load Home pages
+12:30:44.156 [INFO][c-119][ab.log.MyLogger] - Load Home login
+12:30:44.440 [DEBUG][c-111][ab.log.MyLogger] - Load Home pages
+12:30:48.704 [INFO][c-123][ab.log.MyLogger] - Exit
+12:30:48.708 [DEBUG][c-111][ab.log.MyLogger] - Load Home pages
+12:30:53.718 [INFO][c-102][ab.log.MyLogger] - Load Home login
+12:30:53.725 [DEBUG][c-116][ab.log.MyLogger] - Load Home pages
+12:34:13.494 [INFO][c-128][ab.log.MyLogger] - Exit
+12:34:13.499 [DEBUG][c-122][ab.log.MyLogger] - Load Home pages
+12:34:19.107 [INFO][c-122][ab.log.MyLogger] - Load Home login
+12:34:19.399 [DEBUG][c-126][ab.log.MyLogger] - Load Home pages
+12:34:35.169 [INFO][c-131][ab.log.MyLogger] - Load Home login
+12:34:35.183 [DEBUG][c-133][ab.log.MyLogger] - Load Home pages
+12:34:49.221 [INFO][c-135][ab.log.MyLogger] - Exit
+12:34:49.225 [DEBUG][c-133][ab.log.MyLogger] - Load Home pages
+12:34:54.702 [INFO][c-133][ab.log.MyLogger] - Load Home login
+12:34:54.709 [DEBUG][c-137][ab.log.MyLogger] - Load Home pages
+12:35:20.103 [DEBUG][c-137][ab.log.MyLogger] - Load Home pages
+12:35:57.222 [INFO][c-133][ab.log.MyLogger] - Load Home login
+12:35:57.230 [DEBUG][c-141][ab.log.MyLogger] - Load Home pages
+12:39:13.373 [INFO][c-134][ab.log.MyLogger] - Exit
+12:39:13.380 [DEBUG][c-132][ab.log.MyLogger] - Load Home pages
+12:39:22.798 [INFO][c-132][ab.log.MyLogger] - Load Home login
+12:39:23.065 [DEBUG][c-139][ab.log.MyLogger] - Load Home pages
+12:39:54.192 [DEBUG][c-143][ab.log.MyLogger] - Load Home pages
+12:39:56.481 [INFO][c-147][ab.log.MyLogger] - Load course pages
+12:39:59.596 [INFO][c-148][ab.log.MyLogger] - Load course pages
+12:40:37.609 [INFO][c-149][ab.log.MyLogger] - Exit
+12:40:37.613 [DEBUG][c-151][ab.log.MyLogger] - Load Home pages
+12:40:43.871 [INFO][c-151][ab.log.MyLogger] - Load Home login
+12:40:43.878 [DEBUG][c-143][ab.log.MyLogger] - Load Home pages
+12:42:59.089 [INFO][c-150][ab.log.MyLogger] - Exit
+12:42:59.093 [DEBUG][c-149][ab.log.MyLogger] - Load Home pages
+12:43:05.176 [INFO][c-149][ab.log.MyLogger] - Load Home login
+12:43:05.471 [DEBUG][c-148][ab.log.MyLogger] - Load Home pages
+12:43:11.786 [INFO][c-152][ab.log.MyLogger] - Exit
+12:43:11.789 [DEBUG][c-153][ab.log.MyLogger] - Load Home pages
+12:43:17.803 [INFO][c-153][ab.log.MyLogger] - Load Home login
+12:43:17.810 [DEBUG][c-155][ab.log.MyLogger] - Load Home pages
+13:09:52.184 [INFO][c-155][ab.log.MyLogger] - Exit
+13:09:52.235 [DEBUG][c-156][ab.log.MyLogger] - Load Home pages
+13:12:39.829 [DEBUG][c-160][ab.log.MyLogger] - Load Home pages
+13:19:30.144 [DEBUG][c-169][ab.log.MyLogger] - Load Home pages
+13:42:47.730 [DEBUG][xec-1][ab.log.MyLogger] - Load Home pages
+14:13:09.167 [DEBUG][xec-7][ab.log.MyLogger] - Load Home pages
+14:15:59.902 [DEBUG][ec-18][ab.log.MyLogger] - Load Home pages
+14:16:01.458 [INFO][ec-19][ab.log.MyLogger] - Load course pages
+14:19:27.993 [DEBUG][ec-26][ab.log.MyLogger] - Load Home pages
+14:19:29.675 [INFO][ec-23][ab.log.MyLogger] - Load course pages
+14:19:31.455 [INFO][ec-25][ab.log.MyLogger] - Load About pages
+14:19:49.686 [INFO][ec-28][ab.log.MyLogger] - Load Home login
+14:20:02.530 [INFO][ec-22][ab.log.MyLogger] - Load Home login
+14:20:15.766 [INFO][ec-23][ab.log.MyLogger] - Load Home login
+14:20:15.773 [DEBUG][ec-27][ab.log.MyLogger] - Load Home pages
+14:21:48.316 [INFO][ec-22][ab.log.MyLogger] - Exit
+14:21:48.321 [DEBUG][ec-24][ab.log.MyLogger] - Load Home pages
+14:26:21.389 [INFO][xec-2][ab.log.MyLogger] - Load course pages
+14:26:22.930 [INFO][xec-7][ab.log.MyLogger] - Load About pages
+14:30:16.446 [INFO][ec-16][ab.log.MyLogger] - Load course pages
+14:31:01.461 [INFO][ec-16][ab.log.MyLogger] - Exit
+14:31:01.464 [DEBUG][ec-18][ab.log.MyLogger] - Load Home pages
+14:31:07.638 [INFO][ec-18][ab.log.MyLogger] - Load Home login
+14:31:07.645 [DEBUG][ec-20][ab.log.MyLogger] - Load Home pages
+14:31:22.020 [INFO][ec-16][ab.log.MyLogger] - Load admin room pages
+14:31:43.628 [INFO][ec-16][ab.log.MyLogger] - Load admin room pages
+14:31:52.593 [DEBUG][ec-11][ab.log.MyLogger] - Load Home pages
+14:31:53.552 [INFO][ec-19][ab.log.MyLogger] - Load course pages
+14:31:58.277 [INFO][ec-16][ab.log.MyLogger] - Load course pages
+14:31:59.230 [INFO][ec-14][ab.log.MyLogger] - Load About pages
+14:32:15.941 [INFO][ec-12][ab.log.MyLogger] - Load admin room pages
+14:32:25.500 [INFO][ec-17][ab.log.MyLogger] - Load admin room pages
+14:32:35.727 [DEBUG][ec-15][ab.log.MyLogger] - Load Home pages
+14:33:00.242 [INFO][ec-13][ab.log.MyLogger] - Load course pages
+14:33:06.294 [INFO][ec-11][ab.log.MyLogger] - Load About pages
+14:33:10.396 [INFO][ec-19][ab.log.MyLogger] - Load conatct pages
+14:33:15.141 [INFO][ec-16][ab.log.MyLogger] - Load course pages
+14:33:26.135 [INFO][ec-12][ab.log.MyLogger] - Load admin room pages
+14:36:46.313 [INFO][ec-14][ab.log.MyLogger] - Exit
+14:36:46.318 [DEBUG][ec-15][ab.log.MyLogger] - Load Home pages
+14:36:52.715 [INFO][ec-18][ab.log.MyLogger] - Load Home login
+14:36:52.928 [DEBUG][ec-20][ab.log.MyLogger] - Load Home pages
+14:36:56.485 [INFO][ec-19][ab.log.MyLogger] - Load admin room pages
+14:41:28.730 [INFO][ec-21][ab.log.MyLogger] - Exit
+14:41:28.735 [DEBUG][ec-24][ab.log.MyLogger] - Load Home pages
+14:41:34.675 [INFO][ec-26][ab.log.MyLogger] - Load Home login
+14:41:34.682 [DEBUG][ec-22][ab.log.MyLogger] - Load Home pages
+14:41:42.593 [INFO][ec-25][ab.log.MyLogger] - Load admin room pages
+14:41:42.923 [INFO][ec-26][ab.log.MyLogger] - Load admin room pages
+14:42:15.551 [INFO][ec-30][ab.log.MyLogger] - Load admin room pages
+14:42:48.205 [INFO][ec-22][ab.log.MyLogger] - Load admin room pages
+14:42:50.605 [INFO][ec-24][ab.log.MyLogger] - Load admin room pages
+14:43:01.658 [INFO][ec-21][ab.log.MyLogger] - Load banned user
+14:43:19.559 [INFO][ec-29][ab.log.MyLogger] - Load admin room pages
+14:43:22.820 [INFO][ec-26][ab.log.MyLogger] - Load admin room pages
+14:43:33.657 [INFO][ec-29][ab.log.MyLogger] - Exit
+14:43:33.661 [DEBUG][ec-30][ab.log.MyLogger] - Load Home pages
+14:43:42.751 [INFO][ec-30][ab.log.MyLogger] - Load Home login
+14:43:42.759 [DEBUG][ec-24][ab.log.MyLogger] - Load Home pages
+14:43:45.699 [INFO][ec-29][ab.log.MyLogger] - Load admin room pages
+14:43:53.227 [INFO][ec-22][ab.log.MyLogger] - Exit
+14:43:53.230 [DEBUG][ec-26][ab.log.MyLogger] - Load Home pages
+14:43:59.299 [INFO][ec-26][ab.log.MyLogger] - Load Home login
+14:43:59.306 [DEBUG][ec-28][ab.log.MyLogger] - Load Home pages
+14:44:05.580 [INFO][ec-21][ab.log.MyLogger] - Load admin room pages
+14:50:34.268 [DEBUG][ec-27][ab.log.MyLogger] - Load Home pages
+14:50:37.630 [INFO][ec-27][ab.log.MyLogger] - Load admin room pages
+14:50:41.336 [INFO][ec-28][ab.log.MyLogger] - Load banned user
+14:50:45.753 [INFO][ec-30][ab.log.MyLogger] - Edit user
+14:51:13.483 [INFO][ec-29][ab.log.MyLogger] - Load Home login
+14:51:13.489 [DEBUG][ec-24][ab.log.MyLogger] - Load Home pages
+14:51:16.832 [INFO][ec-21][ab.log.MyLogger] - Load admin room pages
+14:51:20.630 [INFO][ec-26][ab.log.MyLogger] - Load banned user
+14:51:24.136 [INFO][ec-23][ab.log.MyLogger] - Edit user
+14:51:35.563 [INFO][ec-27][ab.log.MyLogger] - Delete student from course
+14:51:36.721 [INFO][ec-30][ab.log.MyLogger] - Delete student from course
+14:51:37.962 [INFO][ec-27][ab.log.MyLogger] - Delete student from course
+14:51:38.690 [INFO][ec-30][ab.log.MyLogger] - Delete student from course
+14:51:39.291 [INFO][ec-27][ab.log.MyLogger] - Delete student from course
+14:51:40.657 [INFO][ec-30][ab.log.MyLogger] - Delete student from course
+14:51:41.299 [INFO][ec-27][ab.log.MyLogger] - Delete student from course
+14:51:42.557 [ERROR][ec-30][ab.log.MyLogger] - java.lang.NumberFormatException: For input string: ""
+14:51:45.461 [ERROR][ec-27][ab.log.MyLogger] - java.lang.NumberFormatException: For input string: ""
+15:03:50.163 [INFO][ec-26][ab.log.MyLogger] - Delete student from course
+15:03:50.516 [INFO][ec-24][ab.log.MyLogger] - Delete student from course
+15:03:51.402 [INFO][ec-26][ab.log.MyLogger] - Delete student from course
+15:03:51.707 [INFO][ec-24][ab.log.MyLogger] - Delete student from course
+15:03:53.176 [INFO][ec-26][ab.log.MyLogger] - Exit
+15:03:53.178 [DEBUG][ec-22][ab.log.MyLogger] - Load Home pages
+15:04:02.195 [INFO][ec-22][ab.log.MyLogger] - Load Home login
+15:04:02.200 [DEBUG][ec-29][ab.log.MyLogger] - Load Home pages
+15:04:08.257 [INFO][ec-23][ab.log.MyLogger] - Delete student from course
+15:04:09.021 [INFO][ec-21][ab.log.MyLogger] - Delete student from course
+15:04:09.387 [INFO][ec-23][ab.log.MyLogger] - Delete student from course
+15:04:10.023 [INFO][ec-21][ab.log.MyLogger] - Delete student from course
+15:04:10.386 [INFO][ec-23][ab.log.MyLogger] - Delete student from course
+15:04:10.637 [INFO][ec-21][ab.log.MyLogger] - Delete student from course
+15:04:11.333 [ERROR][ec-23][ab.log.MyLogger] - java.lang.NumberFormatException: For input string: ""
+15:04:12.493 [ERROR][ec-21][ab.log.MyLogger] - java.lang.NumberFormatException: For input string: ""
+15:04:16.605 [ERROR][ec-21][ab.log.MyLogger] - java.lang.NumberFormatException: For input string: ""
+15:04:24.186 [INFO][ec-26][ab.log.MyLogger] - Load admin room pages
+15:04:49.836 [INFO][ec-28][ab.log.MyLogger] - Load Home login
+15:04:49.842 [DEBUG][ec-23][ab.log.MyLogger] - Load Home pages
+15:07:52.271 [INFO][ec-29][ab.log.MyLogger] - Exit
+15:07:52.276 [DEBUG][ec-23][ab.log.MyLogger] - Load Home pages
+15:08:00.863 [INFO][ec-25][ab.log.MyLogger] - Load Home login
+15:08:00.869 [DEBUG][ec-30][ab.log.MyLogger] - Load Home pages
+15:10:22.854 [INFO][ec-28][ab.log.MyLogger] - Create new course
+15:10:24.800 [INFO][ec-21][ab.log.MyLogger] - Load course pages
+15:11:06.026 [INFO][ec-23][ab.log.MyLogger] - Creat new lecturer
+15:12:14.080 [INFO][ec-26][ab.log.MyLogger] - Delete student from course
+15:12:14.814 [INFO][ec-21][ab.log.MyLogger] - Delete student from course
+15:12:18.478 [ERROR][ec-26][ab.log.MyLogger] - java.lang.NumberFormatException: For input string: ""
+15:12:22.206 [ERROR][ec-21][ab.log.MyLogger] - java.lang.NumberFormatException: For input string: ""
+15:12:23.501 [INFO][ec-26][ab.log.MyLogger] - Delete student from course
+15:12:40.213 [INFO][ec-21][ab.log.MyLogger] - Load admin room pages
+15:12:59.715 [INFO][ec-26][ab.log.MyLogger] - Edit user
+15:13:18.499 [INFO][ec-24][ab.log.MyLogger] - Load banned user
+15:13:47.786 [INFO][ec-30][ab.log.MyLogger] - Load Home login
+15:13:52.120 [INFO][ec-23][ab.log.MyLogger] - Load Home login
+15:13:56.559 [DEBUG][ec-30][ab.log.MyLogger] - Load Home pages
+15:13:59.771 [INFO][ec-23][ab.log.MyLogger] - Load course pages
+15:14:01.216 [INFO][ec-27][ab.log.MyLogger] - Load About pages
+15:14:02.562 [INFO][ec-21][ab.log.MyLogger] - Load conatct pages
+15:14:51.200 [INFO][ec-29][ab.log.MyLogger] - Edit user
+15:19:29.924 [INFO][ec-23][ab.log.MyLogger] - Exit
+15:19:29.928 [INFO][ec-22][ab.log.MyLogger] - Exit
+15:19:29.932 [DEBUG][ec-24][ab.log.MyLogger] - Load Home pages
+15:19:31.039 [INFO][ec-21][ab.log.MyLogger] - Exit
+15:19:31.042 [DEBUG][ec-30][ab.log.MyLogger] - Load Home pages
+15:19:37.267 [INFO][ec-30][ab.log.MyLogger] - Load Home login
+15:19:37.519 [DEBUG][ec-31][ab.log.MyLogger] - Load Home pages
+15:19:41.065 [INFO][ec-29][ab.log.MyLogger] - Load admin room pages
+15:20:05.065 [INFO][ec-27][ab.log.MyLogger] - Edit user
+15:22:02.220 [INFO][ec-31][ab.log.MyLogger] - Load banned user
+15:22:08.041 [INFO][ec-34][ab.log.MyLogger] - Load banned user
+15:22:14.675 [INFO][ec-31][ab.log.MyLogger] - Load admin room pages
+15:22:49.462 [INFO][ec-34][ab.log.MyLogger] - Delete student from course
+15:22:50.782 [INFO][ec-31][ab.log.MyLogger] - Delete student from course
+15:22:52.069 [ERROR][ec-34][ab.log.MyLogger] - java.lang.NumberFormatException: For input string: ""
+15:22:53.842 [ERROR][ec-31][ab.log.MyLogger] - java.lang.NumberFormatException: For input string: ""
+15:22:55.976 [ERROR][ec-34][ab.log.MyLogger] - java.lang.NumberFormatException: For input string: ""
+15:22:56.523 [ERROR][ec-31][ab.log.MyLogger] - java.lang.NumberFormatException: For input string: ""
+15:22:57.170 [ERROR][ec-34][ab.log.MyLogger] - java.lang.NumberFormatException: For input string: ""
+15:22:57.956 [ERROR][ec-31][ab.log.MyLogger] - java.lang.NumberFormatException: For input string: ""
+15:22:58.593 [ERROR][ec-34][ab.log.MyLogger] - java.lang.NumberFormatException: For input string: ""
+15:22:59.210 [ERROR][ec-31][ab.log.MyLogger] - java.lang.NumberFormatException: For input string: ""
+15:22:59.738 [ERROR][ec-34][ab.log.MyLogger] - java.lang.NumberFormatException: For input string: ""
+15:23:00.384 [ERROR][ec-31][ab.log.MyLogger] - java.lang.NumberFormatException: For input string: ""
+15:23:38.114 [INFO][ec-34][ab.log.MyLogger] - Delete student from course
+15:25:46.333 [INFO][ec-37][ab.log.MyLogger] - Load Home login
+15:25:46.847 [DEBUG][ec-34][ab.log.MyLogger] - Load Home pages
+15:25:54.224 [INFO][ec-39][ab.log.MyLogger] - Delete student from course
+15:26:52.404 [ERROR][ec-36][ab.log.MyLogger] - java.lang.NumberFormatException: For input string: ""
+15:28:07.640 [INFO][ec-49][ab.log.MyLogger] - Exit
+15:28:07.644 [DEBUG][ec-46][ab.log.MyLogger] - Load Home pages
+15:28:14.026 [INFO][ec-46][ab.log.MyLogger] - Load Home login
+15:28:14.389 [DEBUG][ec-43][ab.log.MyLogger] - Load Home pages
+15:28:21.772 [INFO][ec-55][ab.log.MyLogger] - Delete student from course
+15:32:24.663 [INFO][ec-54][ab.log.MyLogger] - Exit
+15:32:24.667 [DEBUG][ec-56][ab.log.MyLogger] - Load Home pages
+15:32:32.044 [INFO][ec-56][ab.log.MyLogger] - Load Home login
+15:32:32.424 [DEBUG][ec-55][ab.log.MyLogger] - Load Home pages
+15:32:38.962 [INFO][ec-55][ab.log.MyLogger] - Delete student from course
+15:32:44.367 [INFO][ec-63][ab.log.MyLogger] - Delete student from course
+15:36:02.120 [INFO][ec-69][ab.log.MyLogger] - Load Home login
+15:36:02.485 [DEBUG][ec-71][ab.log.MyLogger] - Load Home pages
+15:36:10.962 [INFO][ec-53][ab.log.MyLogger] - Delete student from course
+15:36:15.318 [ERROR][ec-61][ab.log.MyLogger] - java.lang.NumberFormatException: For input string: ""
+15:37:22.040 [INFO][ec-71][ab.log.MyLogger] - Exit
+15:37:22.044 [DEBUG][ec-73][ab.log.MyLogger] - Load Home pages
+15:37:29.337 [INFO][ec-66][ab.log.MyLogger] - Load Home login
+15:37:29.541 [DEBUG][ec-73][ab.log.MyLogger] - Load Home pages
+15:37:54.577 [INFO][ec-83][ab.log.MyLogger] - Load admin room pages
+15:37:59.398 [INFO][ec-80][ab.log.MyLogger] - Exit
+15:37:59.402 [DEBUG][ec-75][ab.log.MyLogger] - Load Home pages
+15:38:06.437 [INFO][ec-88][ab.log.MyLogger] - Load Home login
+15:38:06.443 [DEBUG][ec-79][ab.log.MyLogger] - Load Home pages
+15:38:23.221 [INFO][ec-88][ab.log.MyLogger] - Load course pages
+15:39:05.749 [INFO][ec-85][ab.log.MyLogger] - Load course pages
+15:39:39.130 [INFO][ec-85][ab.log.MyLogger] - Load course pages
+15:39:41.184 [INFO][ec-83][ab.log.MyLogger] - Load course pages
+15:39:44.894 [INFO][ec-82][ab.log.MyLogger] - Load course pages
+15:39:47.361 [INFO][ec-89][ab.log.MyLogger] - Load course pages
+15:41:34.538 [INFO][ec-80][ab.log.MyLogger] - Load course pages
+15:41:36.306 [DEBUG][ec-85][ab.log.MyLogger] - Load Home pages
+15:41:42.757 [INFO][ec-88][ab.log.MyLogger] - Exit
+15:41:42.761 [DEBUG][ec-83][ab.log.MyLogger] - Load Home pages
+15:41:48.481 [INFO][ec-83][ab.log.MyLogger] - Load Home login
+15:41:48.755 [DEBUG][ec-80][ab.log.MyLogger] - Load Home pages
+15:41:52.172 [INFO][ec-91][ab.log.MyLogger] - Load course pages
+15:41:54.677 [INFO][ec-92][ab.log.MyLogger] - Load course pages
+15:43:36.741 [INFO][c-100][ab.log.MyLogger] - Load Home login
+15:43:37.108 [DEBUG][ec-92][ab.log.MyLogger] - Load Home pages
+15:43:40.418 [INFO][c-100][ab.log.MyLogger] - Load course pages
+15:43:42.555 [INFO][c-103][ab.log.MyLogger] - Load course pages
+15:46:09.628 [INFO][c-105][ab.log.MyLogger] - Load course pages
+15:46:11.809 [INFO][c-104][ab.log.MyLogger] - Load course pages
+15:46:19.322 [INFO][c-104][ab.log.MyLogger] - Load course pages
+15:46:21.130 [INFO][c-100][ab.log.MyLogger] - Load course pages
+15:47:45.080 [INFO][c-106][ab.log.MyLogger] - Load course pages
+15:47:52.752 [DEBUG][c-104][ab.log.MyLogger] - Load Home pages
+15:48:00.212 [INFO][c-112][ab.log.MyLogger] - Load Home login
+15:48:00.232 [DEBUG][c-107][ab.log.MyLogger] - Load Home pages
+15:48:03.836 [INFO][c-111][ab.log.MyLogger] - Load admin room pages
+15:48:07.998 [INFO][c-113][ab.log.MyLogger] - Exit
+15:48:08.001 [DEBUG][c-115][ab.log.MyLogger] - Load Home pages
+15:48:14.284 [INFO][c-115][ab.log.MyLogger] - Load Home login
+15:48:14.290 [DEBUG][c-117][ab.log.MyLogger] - Load Home pages
+15:48:15.881 [INFO][c-110][ab.log.MyLogger] - Load course pages
+15:48:47.890 [INFO][c-117][ab.log.MyLogger] - Load course pages
+15:49:41.446 [DEBUG][c-117][ab.log.MyLogger] - Load Home pages
+15:49:42.201 [INFO][c-119][ab.log.MyLogger] - Load course pages
+15:49:47.528 [INFO][c-119][ab.log.MyLogger] - Load About pages
+15:49:50.467 [INFO][c-117][ab.log.MyLogger] - Load conatct pages
+15:49:52.977 [INFO][c-119][ab.log.MyLogger] - Exit
+15:49:52.980 [DEBUG][c-110][ab.log.MyLogger] - Load Home pages
+16:16:44.279 [DEBUG][c-110][ab.log.MyLogger] - Load Home pages
+16:16:51.474 [INFO][c-110][ab.log.MyLogger] - Load Home login
+16:16:51.481 [DEBUG][c-116][ab.log.MyLogger] - Load Home pages
+16:17:24.194 [DEBUG][c-112][ab.log.MyLogger] - Load Home pages
+16:17:42.065 [INFO][c-112][ab.log.MyLogger] - Load Home login
+16:17:42.070 [DEBUG][c-115][ab.log.MyLogger] - Load Home pages
+16:17:52.289 [DEBUG][c-119][ab.log.MyLogger] - Load Home pages
+16:17:53.197 [INFO][c-116][ab.log.MyLogger] - Load course pages
+16:17:59.195 [INFO][c-112][ab.log.MyLogger] - Exit
+16:17:59.198 [DEBUG][c-115][ab.log.MyLogger] - Load Home pages
+16:18:06.236 [INFO][c-115][ab.log.MyLogger] - Load Home login
+16:18:06.240 [DEBUG][c-110][ab.log.MyLogger] - Load Home pages
+16:18:11.802 [INFO][c-111][ab.log.MyLogger] - Exit
+16:18:11.803 [DEBUG][c-117][ab.log.MyLogger] - Load Home pages
+16:18:24.182 [INFO][c-117][ab.log.MyLogger] - Load Home login
+16:18:24.186 [DEBUG][c-113][ab.log.MyLogger] - Load Home pages
+16:18:40.567 [DEBUG][c-116][ab.log.MyLogger] - Load Home pages
+16:24:29.863 [DEBUG][c-112][ab.log.MyLogger] - Load Home pages
+16:24:40.454 [INFO][c-114][ab.log.MyLogger] - Load course pages
+16:24:46.620 [INFO][c-113][ab.log.MyLogger] - Load course pages
+16:24:56.570 [INFO][c-113][ab.log.MyLogger] - Load course pages
+16:26:57.410 [DEBUG][c-115][ab.log.MyLogger] - Load Home pages
+16:27:07.465 [INFO][c-120][ab.log.MyLogger] - Load Home login
+16:27:07.758 [DEBUG][c-119][ab.log.MyLogger] - Load Home pages
+16:29:41.362 [INFO][c-124][ab.log.MyLogger] - Load Home login
+16:29:41.367 [DEBUG][c-120][ab.log.MyLogger] - Load Home pages
+16:30:00.264 [INFO][c-126][ab.log.MyLogger] - Exit
+16:30:00.266 [DEBUG][c-125][ab.log.MyLogger] - Load Home pages
+16:30:10.728 [INFO][c-125][ab.log.MyLogger] - Load Home login
+16:30:10.732 [DEBUG][c-124][ab.log.MyLogger] - Load Home pages
+16:33:09.410 [INFO][c-122][ab.log.MyLogger] - Exit
+16:33:09.414 [DEBUG][c-130][ab.log.MyLogger] - Load Home pages
+16:33:16.613 [INFO][c-130][ab.log.MyLogger] - Load Home login
+16:33:22.110 [INFO][c-131][ab.log.MyLogger] - Load Home login
+16:33:22.279 [DEBUG][c-120][ab.log.MyLogger] - Load Home pages
+16:33:34.916 [INFO][c-133][ab.log.MyLogger] - Exit
+16:33:34.920 [DEBUG][c-124][ab.log.MyLogger] - Load Home pages
+16:33:41.807 [INFO][c-135][ab.log.MyLogger] - Load Home login
+16:33:41.813 [DEBUG][c-127][ab.log.MyLogger] - Load Home pages
+16:36:19.621 [INFO][c-131][ab.log.MyLogger] - Load course pages
+16:36:21.862 [INFO][c-139][ab.log.MyLogger] - Load course pages
+16:36:36.512 [INFO][c-139][ab.log.MyLogger] - Load course pages
+16:36:38.286 [INFO][c-132][ab.log.MyLogger] - Load course pages
+16:36:40.627 [INFO][c-137][ab.log.MyLogger] - Load course pages
+16:37:10.103 [INFO][c-132][ab.log.MyLogger] - Load About pages
+16:37:12.556 [DEBUG][c-133][ab.log.MyLogger] - Load Home pages
+16:37:17.122 [INFO][c-132][ab.log.MyLogger] - Load conatct pages
+16:37:18.137 [INFO][c-133][ab.log.MyLogger] - Exit
+16:37:18.142 [DEBUG][c-137][ab.log.MyLogger] - Load Home pages
+16:37:20.608 [DEBUG][c-135][ab.log.MyLogger] - Load Home pages
+16:37:21.850 [INFO][c-137][ab.log.MyLogger] - Load course pages
+16:37:23.375 [INFO][c-135][ab.log.MyLogger] - Load About pages
+16:37:25.378 [INFO][c-137][ab.log.MyLogger] - Load conatct pages
+16:47:41.494 [DEBUG][c-140][ab.log.MyLogger] - Load Home pages
+16:47:42.877 [DEBUG][c-141][ab.log.MyLogger] - Load Home pages
+16:49:59.521 [DEBUG][c-146][ab.log.MyLogger] - Load Home pages
+16:50:05.944 [INFO][c-146][ab.log.MyLogger] - Load Home login
+16:50:06.219 [DEBUG][c-141][ab.log.MyLogger] - Load Home pages
+17:02:26.063 [DEBUG][c-145][ab.log.MyLogger] - Load Home pages
+17:02:27.724 [INFO][c-144][ab.log.MyLogger] - Load course pages
+17:07:19.780 [INFO][c-140][ab.log.MyLogger] - Exit
+17:07:19.812 [DEBUG][c-145][ab.log.MyLogger] - Load Home pages
+17:07:25.704 [INFO][c-145][ab.log.MyLogger] - Load Home login
+17:07:25.709 [DEBUG][c-147][ab.log.MyLogger] - Load Home pages
+17:08:25.002 [INFO][xec-9][ab.log.MyLogger] - Exit
+17:08:25.008 [DEBUG][xec-8][ab.log.MyLogger] - Load Home pages
+17:08:31.142 [INFO][xec-8][ab.log.MyLogger] - Load Home login
+17:08:31.998 [DEBUG][xec-1][ab.log.MyLogger] - Load Home pages
+17:13:38.458 [DEBUG][xec-1][ab.log.MyLogger] - Load Home pages
+17:17:11.128 [DEBUG][xec-5][ab.log.MyLogger] - Load Home pages
+17:19:20.305 [DEBUG][xec-6][ab.log.MyLogger] - Load Home pages
+17:19:27.860 [INFO][ec-11][ab.log.MyLogger] - Load Home login
+17:19:28.072 [DEBUG][xec-7][ab.log.MyLogger] - Load Home pages
+17:22:32.442 [DEBUG][ec-12][ab.log.MyLogger] - Load Home pages
+17:22:35.489 [INFO][ec-19][ab.log.MyLogger] - Load course pages
+17:57:59.125 [DEBUG][ec-27][ab.log.MyLogger] - Load Home pages
+18:03:28.445 [INFO][ec-24][ab.log.MyLogger] - Load Home login
+18:03:28.845 [DEBUG][ec-23][ab.log.MyLogger] - Load Home pages
+18:05:02.371 [INFO][ec-33][ab.log.MyLogger] - Exit
+18:05:02.376 [DEBUG][ec-30][ab.log.MyLogger] - Load Home pages
+18:05:07.854 [INFO][ec-30][ab.log.MyLogger] - Load Home login
+18:05:08.090 [DEBUG][ec-37][ab.log.MyLogger] - Load Home pages
+18:13:06.599 [DEBUG][ec-48][ab.log.MyLogger] - Load Home pages
+18:13:13.618 [INFO][ec-48][ab.log.MyLogger] - Load Home login
+18:13:13.630 [DEBUG][ec-49][ab.log.MyLogger] - Load Home pages
+18:15:02.990 [DEBUG][ec-52][ab.log.MyLogger] - Load Home pages
+18:16:03.518 [DEBUG][ec-56][ab.log.MyLogger] - Load Home pages
+18:16:05.485 [INFO][ec-51][ab.log.MyLogger] - Load course pages
+18:16:08.016 [INFO][ec-49][ab.log.MyLogger] - Load About pages
+18:16:09.261 [INFO][ec-56][ab.log.MyLogger] - Load conatct pages
+18:16:17.518 [INFO][ec-49][ab.log.MyLogger] - Exit
+18:16:17.522 [DEBUG][ec-52][ab.log.MyLogger] - Load Home pages
+18:17:46.450 [INFO][ec-52][ab.log.MyLogger] - Load Home login
+18:17:46.459 [DEBUG][ec-51][ab.log.MyLogger] - Load Home pages
+18:22:15.392 [DEBUG][ec-48][ab.log.MyLogger] - Load Home pages
+18:29:39.891 [DEBUG][ec-48][ab.log.MyLogger] - Load Home pages
+18:29:41.200 [INFO][ec-49][ab.log.MyLogger] - Exit
+18:29:41.204 [DEBUG][ec-50][ab.log.MyLogger] - Load Home pages
+18:29:47.280 [INFO][ec-50][ab.log.MyLogger] - Load Home login
+18:29:47.287 [DEBUG][ec-52][ab.log.MyLogger] - Load Home pages
+18:30:50.332 [INFO][ec-48][ab.log.MyLogger] - Load Home login
+18:32:09.836 [INFO][ec-54][ab.log.MyLogger] - Load Home login
+18:32:09.842 [DEBUG][ec-53][ab.log.MyLogger] - Load Home pages
+18:34:48.858 [INFO][ec-48][ab.log.MyLogger] - Delete student from course
+18:34:49.942 [ERROR][ec-56][ab.log.MyLogger] - java.lang.NumberFormatException: For input string: ""
+18:34:54.487 [ERROR][ec-48][ab.log.MyLogger] - java.lang.NumberFormatException: For input string: ""
+18:34:54.937 [ERROR][ec-56][ab.log.MyLogger] - java.lang.NumberFormatException: For input string: ""
+18:34:59.239 [ERROR][ec-48][ab.log.MyLogger] - java.lang.NumberFormatException: For input string: ""
+18:35:01.014 [ERROR][ec-56][ab.log.MyLogger] - java.lang.NumberFormatException: For input string: ""
+18:35:05.587 [ERROR][ec-48][ab.log.MyLogger] - java.lang.NumberFormatException: For input string: ""
+18:35:09.728 [ERROR][ec-56][ab.log.MyLogger] - java.lang.NumberFormatException: For input string: ""
+18:35:13.793 [ERROR][ec-48][ab.log.MyLogger] - java.lang.NumberFormatException: For input string: ""
+18:35:18.364 [ERROR][ec-51][ab.log.MyLogger] - java.lang.NumberFormatException: For input string: ""
+18:35:21.697 [ERROR][ec-57][ab.log.MyLogger] - java.lang.NumberFormatException: For input string: ""
+18:35:25.206 [ERROR][ec-51][ab.log.MyLogger] - java.lang.NumberFormatException: For input string: ""
+18:36:34.937 [ERROR][ec-51][ab.log.MyLogger] - java.lang.NumberFormatException: For input string: ""
+18:37:24.408 [DEBUG][ec-49][ab.log.MyLogger] - Load Home pages
+18:37:29.162 [INFO][ec-57][ab.log.MyLogger] - Exit
+18:37:29.167 [DEBUG][ec-52][ab.log.MyLogger] - Load Home pages
+18:37:39.700 [INFO][ec-52][ab.log.MyLogger] - Load Home login
+18:37:39.798 [DEBUG][ec-50][ab.log.MyLogger] - Load Home pages
+18:37:47.888 [ERROR][ec-58][ab.log.MyLogger] - java.lang.NumberFormatException: For input string: ""
+18:40:22.522 [ERROR][ec-58][ab.log.MyLogger] - java.lang.NumberFormatException: For input string: ""
+18:42:18.723 [ERROR][ec-65][ab.log.MyLogger] - java.lang.NumberFormatException: For input string: ""
+18:45:07.225 [INFO][ec-63][ab.log.MyLogger] - Exit
+18:45:07.227 [DEBUG][ec-59][ab.log.MyLogger] - Load Home pages
+18:45:16.637 [INFO][ec-63][ab.log.MyLogger] - Load Home login
+18:45:16.743 [DEBUG][ec-59][ab.log.MyLogger] - Load Home pages
+18:45:25.077 [ERROR][ec-64][ab.log.MyLogger] - java.lang.NumberFormatException: For input string: ""
+18:46:00.051 [INFO][ec-70][ab.log.MyLogger] - Exit
+18:46:00.053 [DEBUG][ec-59][ab.log.MyLogger] - Load Home pages
+18:46:05.848 [INFO][ec-72][ab.log.MyLogger] - Load Home login
+18:46:05.853 [DEBUG][ec-62][ab.log.MyLogger] - Load Home pages
+18:46:14.195 [ERROR][ec-72][ab.log.MyLogger] - java.lang.NumberFormatException: For input string: ""
+18:46:17.702 [INFO][ec-75][ab.log.MyLogger] - Exit
+18:46:17.703 [DEBUG][ec-58][ab.log.MyLogger] - Load Home pages
+18:46:27.992 [INFO][ec-76][ab.log.MyLogger] - Load Home login
+18:46:27.997 [DEBUG][ec-74][ab.log.MyLogger] - Load Home pages
+18:46:38.890 [ERROR][ec-71][ab.log.MyLogger] - java.lang.NumberFormatException: For input string: ""
+18:50:03.065 [INFO][ec-69][ab.log.MyLogger] - Exit
+18:50:03.068 [DEBUG][ec-68][ab.log.MyLogger] - Load Home pages
+18:50:13.674 [INFO][ec-75][ab.log.MyLogger] - Load Home login
+18:50:13.786 [DEBUG][ec-77][ab.log.MyLogger] - Load Home pages
+18:51:12.313 [ERROR][ec-85][ab.log.MyLogger] - java.lang.NumberFormatException: For input string: ""
+18:51:15.917 [ERROR][ec-86][ab.log.MyLogger] - java.lang.NumberFormatException: For input string: ""
+18:51:23.105 [ERROR][ec-85][ab.log.MyLogger] - java.lang.NumberFormatException: For input string: ""
+18:51:53.596 [INFO][ec-81][ab.log.MyLogger] - Exit
+18:51:53.598 [DEBUG][ec-87][ab.log.MyLogger] - Load Home pages
+18:51:59.683 [INFO][ec-87][ab.log.MyLogger] - Load Home login
+18:51:59.687 [DEBUG][ec-88][ab.log.MyLogger] - Load Home pages
+18:52:05.534 [INFO][ec-81][ab.log.MyLogger] - Load admin room pages
+18:52:13.516 [ERROR][ec-81][ab.log.MyLogger] - java.lang.NumberFormatException: For input string: "wewew"
+18:52:18.788 [INFO][ec-81][ab.log.MyLogger] - Exit
+18:52:18.789 [DEBUG][ec-87][ab.log.MyLogger] - Load Home pages
+18:52:29.078 [INFO][ec-87][ab.log.MyLogger] - Load Home login
+18:52:29.082 [DEBUG][ec-88][ab.log.MyLogger] - Load Home pages
+18:52:43.316 [ERROR][ec-81][ab.log.MyLogger] - java.lang.NumberFormatException: For input string: ""
+18:52:54.236 [ERROR][ec-81][ab.log.MyLogger] - java.lang.NumberFormatException: For input string: ""
+18:52:59.552 [ERROR][ec-80][ab.log.MyLogger] - java.lang.NumberFormatException: For input string: ""
+18:53:03.160 [ERROR][ec-81][ab.log.MyLogger] - java.lang.Exception
+18:53:10.085 [INFO][ec-80][ab.log.MyLogger] - Delete student from course
+18:53:10.839 [INFO][ec-81][ab.log.MyLogger] - Delete student from course
+18:53:26.482 [INFO][ec-79][ab.log.MyLogger] - Exit
+18:53:26.486 [DEBUG][ec-83][ab.log.MyLogger] - Load Home pages
+18:53:32.554 [INFO][ec-83][ab.log.MyLogger] - Load Home login
+18:53:32.560 [DEBUG][ec-81][ab.log.MyLogger] - Load Home pages
+18:53:49.925 [INFO][ec-82][ab.log.MyLogger] - Load course pages
+18:54:27.162 [INFO][ec-82][ab.log.MyLogger] - Load course pages
+18:54:38.482 [ERROR][ec-79][ab.log.MyLogger] - java.lang.NumberFormatException: For input string: "asas"
+18:56:10.176 [INFO][ec-84][ab.log.MyLogger] - Exit
+18:56:10.179 [DEBUG][ec-88][ab.log.MyLogger] - Load Home pages
+18:56:18.631 [INFO][ec-88][ab.log.MyLogger] - Load Home login
+18:56:18.717 [DEBUG][ec-83][ab.log.MyLogger] - Load Home pages
+18:56:24.930 [DEBUG][ec-80][ab.log.MyLogger] - Load Home pages
+18:56:35.092 [INFO][ec-92][ab.log.MyLogger] - Load Home login
+18:56:35.102 [DEBUG][ec-86][ab.log.MyLogger] - Load Home pages
+18:56:36.587 [INFO][ec-87][ab.log.MyLogger] - Load course pages
+18:56:47.958 [DEBUG][ec-95][ab.log.MyLogger] - Load Home pages
+18:56:56.846 [ERROR][ec-92][ab.log.MyLogger] - java.lang.NumberFormatException: For input string: "asasa"
+18:56:59.966 [ERROR][ec-93][ab.log.MyLogger] - java.lang.NullPointerException
+18:57:36.481 [INFO][ec-95][ab.log.MyLogger] - Load conatct pages
+18:57:37.356 [INFO][ec-94][ab.log.MyLogger] - Exit
+18:57:37.358 [DEBUG][ec-96][ab.log.MyLogger] - Load Home pages
+19:10:37.534 [INFO][ec-93][ab.log.MyLogger] - Exit
+19:10:37.538 [DEBUG][ec-95][ab.log.MyLogger] - Load Home pages
+19:11:44.096 [INFO][ec-90][ab.log.MyLogger] - Load Home login
+19:11:44.101 [DEBUG][ec-89][ab.log.MyLogger] - Load Home pages
+19:12:52.193 [INFO][ec-89][ab.log.MyLogger] - Create new course
+19:14:21.421 [INFO][ec-89][ab.log.MyLogger] - Create new course
+19:15:18.984 [INFO][ec-90][ab.log.MyLogger] - Creat new lecturer
+19:15:25.256 [INFO][ec-98][ab.log.MyLogger] - Exit
+19:15:25.259 [DEBUG][ec-95][ab.log.MyLogger] - Load Home pages
+19:15:34.046 [INFO][ec-95][ab.log.MyLogger] - Load Home login
+19:15:34.050 [DEBUG][ec-89][ab.log.MyLogger] - Load Home pages
+19:15:49.097 [INFO][ec-90][ab.log.MyLogger] - Load course pages
+19:17:48.247 [INFO][ec-97][ab.log.MyLogger] - Exit
+19:17:48.250 [DEBUG][ec-96][ab.log.MyLogger] - Load Home pages
+19:17:57.649 [INFO][ec-96][ab.log.MyLogger] - Load Home login
+19:17:57.790 [DEBUG][ec-93][ab.log.MyLogger] - Load Home pages
+19:18:09.660 [ERROR][ec-91][ab.log.MyLogger] - java.lang.NumberFormatException: For input string: "sdds"
+19:20:12.072 [INFO][c-100][ab.log.MyLogger] - Exit
+19:20:12.075 [DEBUG][c-101][ab.log.MyLogger] - Load Home pages
+19:20:20.686 [INFO][c-101][ab.log.MyLogger] - Load Home login
+19:20:20.775 [DEBUG][c-108][ab.log.MyLogger] - Load Home pages
+19:20:50.960 [INFO][c-110][ab.log.MyLogger] - Load course pages
+19:21:13.385 [INFO][c-113][ab.log.MyLogger] - Load Home login
+19:21:13.395 [DEBUG][c-115][ab.log.MyLogger] - Load Home pages
+19:21:16.789 [INFO][c-113][ab.log.MyLogger] - Load course pages
+19:21:28.202 [ERROR][c-111][ab.log.MyLogger] - java.lang.NumberFormatException: For input string: "sasaas"
+19:31:59.774 [INFO][c-112][ab.log.MyLogger] - Exit
+19:31:59.779 [DEBUG][c-111][ab.log.MyLogger] - Load Home pages
+19:32:22.512 [INFO][c-111][ab.log.MyLogger] - Load Home login
+19:32:31.294 [INFO][c-120][ab.log.MyLogger] - Load Home login
+19:32:31.303 [DEBUG][c-118][ab.log.MyLogger] - Load Home pages
+19:32:44.139 [INFO][c-116][ab.log.MyLogger] - Exit
+19:32:44.143 [DEBUG][c-124][ab.log.MyLogger] - Load Home pages
+19:32:52.648 [INFO][c-124][ab.log.MyLogger] - Load Home login
+19:32:52.654 [DEBUG][c-120][ab.log.MyLogger] - Load Home pages
+19:33:05.674 [ERROR][c-128][ab.log.MyLogger] - java.lang.NumberFormatException: For input string: ""
+19:33:09.662 [ERROR][c-127][ab.log.MyLogger] - java.lang.NumberFormatException: For input string: ""
+19:33:15.263 [ERROR][c-128][ab.log.MyLogger] - java.lang.NumberFormatException: For input string: ""
+19:33:30.943 [ERROR][c-128][ab.log.MyLogger] - java.lang.NumberFormatException: For input string: ""
+19:33:35.010 [ERROR][c-127][ab.log.MyLogger] - java.lang.Exception
+19:33:37.540 [ERROR][c-128][ab.log.MyLogger] - java.lang.Exception
+19:33:39.323 [ERROR][c-127][ab.log.MyLogger] - java.lang.NumberFormatException: For input string: ""
+19:33:40.080 [ERROR][c-128][ab.log.MyLogger] - java.lang.NumberFormatException: For input string: ""
+19:33:41.108 [INFO][c-127][ab.log.MyLogger] - Load conatct pages
+19:38:06.983 [ERROR][c-122][ab.log.MyLogger] - java.lang.Exception
+19:38:08.964 [INFO][c-125][ab.log.MyLogger] - Exit
+19:38:08.967 [DEBUG][c-128][ab.log.MyLogger] - Load Home pages
+19:38:18.170 [INFO][c-128][ab.log.MyLogger] - Load Home login
+19:38:18.176 [DEBUG][c-124][ab.log.MyLogger] - Load Home pages
+19:38:28.206 [ERROR][c-122][ab.log.MyLogger] - java.lang.Exception
+19:39:08.282 [INFO][c-125][ab.log.MyLogger] - Load Home login
+19:39:08.286 [DEBUG][c-128][ab.log.MyLogger] - Load Home pages
+19:39:16.975 [ERROR][c-121][ab.log.MyLogger] - java.lang.Exception
+19:39:17.268 [ERROR][c-124][ab.log.MyLogger] - java.lang.NumberFormatException: For input string: ""
+19:39:19.934 [ERROR][c-121][ab.log.MyLogger] - java.lang.NumberFormatException: For input string: ""
+19:39:19.948 [ERROR][c-119][ab.log.MyLogger] - java.lang.NumberFormatException: For input string: ""
+19:39:20.389 [ERROR][c-120][ab.log.MyLogger] - java.lang.NumberFormatException: For input string: ""
+19:41:29.545 [INFO][c-119][ab.log.MyLogger] - Exit
+19:41:29.547 [DEBUG][c-124][ab.log.MyLogger] - Load Home pages
+19:41:40.054 [INFO][c-124][ab.log.MyLogger] - Load Home login
+19:41:40.065 [DEBUG][c-126][ab.log.MyLogger] - Load Home pages
+19:41:45.882 [ERROR][c-125][ab.log.MyLogger] - java.lang.NumberFormatException: For input string: ""
+19:41:49.650 [ERROR][c-130][ab.log.MyLogger] - java.lang.Exception
+19:42:00.645 [ERROR][c-135][ab.log.MyLogger] - java.lang.NumberFormatException: For input string: ""
+19:43:28.594 [INFO][c-130][ab.log.MyLogger] - Exit
+19:43:28.597 [DEBUG][c-132][ab.log.MyLogger] - Load Home pages
+19:43:38.218 [INFO][c-136][ab.log.MyLogger] - Load Home login
+19:43:38.393 [DEBUG][c-132][ab.log.MyLogger] - Load Home pages
+19:43:48.848 [ERROR][c-141][ab.log.MyLogger] - java.lang.NumberFormatException: For input string: "sasa"
+19:46:45.768 [INFO][c-139][ab.log.MyLogger] - Exit
+19:46:45.771 [DEBUG][c-141][ab.log.MyLogger] - Load Home pages
+19:49:27.135 [INFO][c-142][ab.log.MyLogger] - Load course pages
+19:49:59.193 [INFO][c-154][ab.log.MyLogger] - Load Home login
+19:49:59.199 [DEBUG][c-152][ab.log.MyLogger] - Load Home pages
+19:50:12.100 [ERROR][c-158][ab.log.MyLogger] - java.lang.NumberFormatException: For input string: "sasa"
+19:51:28.742 [INFO][c-149][ab.log.MyLogger] - Load Home login
+19:51:28.754 [DEBUG][c-159][ab.log.MyLogger] - Load Home pages
+19:51:38.882 [INFO][c-163][ab.log.MyLogger] - Load course pages
+19:51:43.687 [INFO][c-160][ab.log.MyLogger] - Load course pages
+19:52:01.780 [INFO][c-165][ab.log.MyLogger] - Load Home login
+19:52:01.784 [DEBUG][c-166][ab.log.MyLogger] - Load Home pages
+19:52:29.026 [INFO][c-163][ab.log.MyLogger] - Exit
+19:52:29.029 [DEBUG][c-166][ab.log.MyLogger] - Load Home pages
+19:53:22.146 [INFO][c-162][ab.log.MyLogger] - Load course pages
+19:54:19.634 [INFO][c-161][ab.log.MyLogger] - Exit
+19:54:19.636 [DEBUG][c-159][ab.log.MyLogger] - Load Home pages
+19:54:25.864 [INFO][c-159][ab.log.MyLogger] - Load Home login
+19:54:25.867 [DEBUG][c-168][ab.log.MyLogger] - Load Home pages
+19:54:34.330 [ERROR][c-165][ab.log.MyLogger] - java.lang.NumberFormatException: For input string: "??????"
+19:54:39.416 [INFO][c-160][ab.log.MyLogger] - Exit
+19:54:39.418 [DEBUG][c-167][ab.log.MyLogger] - Load Home pages
+19:54:47.454 [INFO][c-167][ab.log.MyLogger] - Load Home login
+19:54:47.457 [DEBUG][c-162][ab.log.MyLogger] - Load Home pages
+19:56:34.186 [INFO][c-159][ab.log.MyLogger] - Exit
+19:56:34.189 [DEBUG][c-163][ab.log.MyLogger] - Load Home pages
+19:56:42.542 [INFO][c-159][ab.log.MyLogger] - Load Home login
+19:56:42.719 [DEBUG][c-163][ab.log.MyLogger] - Load Home pages
+19:58:37.820 [INFO][c-176][ab.log.MyLogger] - Load Home login
+19:58:38.210 [DEBUG][c-173][ab.log.MyLogger] - Load Home pages
+19:58:46.758 [INFO][c-170][ab.log.MyLogger] - Exit
+19:58:46.762 [DEBUG][c-176][ab.log.MyLogger] - Load Home pages
+19:59:22.451 [INFO][c-176][ab.log.MyLogger] - Load Home login
+19:59:22.458 [DEBUG][c-178][ab.log.MyLogger] - Load Home pages
+19:59:27.497 [INFO][c-175][ab.log.MyLogger] - Load course pages
+19:59:35.415 [INFO][c-179][ab.log.MyLogger] - Exit
+19:59:35.417 [DEBUG][c-181][ab.log.MyLogger] - Load Home pages
+19:59:47.242 [INFO][c-181][ab.log.MyLogger] - Load Home login
+19:59:58.537 [INFO][c-184][ab.log.MyLogger] - Load Home login
+19:59:58.541 [DEBUG][c-185][ab.log.MyLogger] - Load Home pages
+20:00:12.168 [ERROR][c-178][ab.log.MyLogger] - java.lang.NumberFormatException: For input string: ""
+20:01:24.588 [INFO][c-178][ab.log.MyLogger] - Exit
+20:01:24.590 [DEBUG][c-183][ab.log.MyLogger] - Load Home pages
+20:01:30.584 [INFO][c-183][ab.log.MyLogger] - Load Home login
+20:01:30.587 [DEBUG][c-184][ab.log.MyLogger] - Load Home pages
+20:01:45.071 [INFO][c-178][ab.log.MyLogger] - Exit
+20:01:45.075 [DEBUG][c-183][ab.log.MyLogger] - Load Home pages
+20:01:53.447 [INFO][c-183][ab.log.MyLogger] - Load Home login
+20:01:53.453 [DEBUG][c-176][ab.log.MyLogger] - Load Home pages
+20:01:56.865 [INFO][c-183][ab.log.MyLogger] - Load course pages
+20:02:21.114 [ERROR][c-185][ab.log.MyLogger] - java.lang.NumberFormatException: For input string: "asas"
+20:02:35.990 [INFO][c-181][ab.log.MyLogger] - Exit
+20:02:35.994 [DEBUG][c-177][ab.log.MyLogger] - Load Home pages
+20:02:46.992 [INFO][c-177][ab.log.MyLogger] - Load Home login
+20:02:47.000 [DEBUG][c-179][ab.log.MyLogger] - Load Home pages
+20:02:49.619 [INFO][c-182][ab.log.MyLogger] - Load course pages
+20:05:07.825 [INFO][c-186][ab.log.MyLogger] - Load Home login
+20:05:07.836 [DEBUG][c-183][ab.log.MyLogger] - Load Home pages
+20:05:35.380 [INFO][c-180][ab.log.MyLogger] - Exit
+20:05:35.384 [DEBUG][c-181][ab.log.MyLogger] - Load Home pages
+20:05:41.321 [INFO][c-181][ab.log.MyLogger] - Load Home login
+20:06:08.105 [INFO][c-187][ab.log.MyLogger] - Load Home login
+20:06:12.561 [INFO][c-190][ab.log.MyLogger] - Load Home login
+20:06:38.196 [INFO][c-187][ab.log.MyLogger] - Load Home login
+20:06:47.795 [INFO][c-190][ab.log.MyLogger] - Load Home login
+20:06:47.800 [DEBUG][c-193][ab.log.MyLogger] - Load Home pages
+20:06:51.017 [INFO][c-193][ab.log.MyLogger] - Load admin room pages
+20:07:01.301 [INFO][c-186][ab.log.MyLogger] - Load banned user
+20:07:06.549 [INFO][c-191][ab.log.MyLogger] - Load banned user
+20:07:16.916 [INFO][c-190][ab.log.MyLogger] - Exit
+20:07:16.921 [DEBUG][c-193][ab.log.MyLogger] - Load Home pages
+20:07:25.208 [INFO][c-193][ab.log.MyLogger] - Load Home login
+20:07:27.444 [DEBUG][c-189][ab.log.MyLogger] - Load Home pages
+20:07:32.349 [INFO][c-189][ab.log.MyLogger] - Load Home login
+20:07:42.228 [INFO][c-193][ab.log.MyLogger] - Load Home login
+20:07:42.234 [DEBUG][c-191][ab.log.MyLogger] - Load Home pages
+20:07:44.719 [INFO][c-195][ab.log.MyLogger] - Load admin room pages
+20:07:53.394 [INFO][c-194][ab.log.MyLogger] - Load banned user
+20:07:59.937 [INFO][c-192][ab.log.MyLogger] - Load admin room pages
+20:08:03.864 [INFO][c-190][ab.log.MyLogger] - Exit
+20:08:03.868 [DEBUG][c-186][ab.log.MyLogger] - Load Home pages
+20:08:10.293 [INFO][c-186][ab.log.MyLogger] - Load Home login
+20:08:10.300 [DEBUG][c-195][ab.log.MyLogger] - Load Home pages
+20:09:56.440 [DEBUG][c-188][ab.log.MyLogger] - Load Home pages
+20:10:00.831 [INFO][c-193][ab.log.MyLogger] - Load course pages
+20:23:24.167 [DEBUG][c-201][ab.log.MyLogger] - Load Home pages
+20:23:34.774 [DEBUG][c-196][ab.log.MyLogger] - Load Home pages
+20:23:36.634 [INFO][c-201][ab.log.MyLogger] - Load course pages
+20:24:18.008 [INFO][c-200][ab.log.MyLogger] - Load course pages
+20:24:19.902 [DEBUG][c-205][ab.log.MyLogger] - Load Home pages
+20:26:28.318 [DEBUG][c-200][ab.log.MyLogger] - Load Home pages
+20:26:30.094 [INFO][c-205][ab.log.MyLogger] - Load course pages
+20:26:31.780 [INFO][c-200][ab.log.MyLogger] - Load About pages
+20:26:33.125 [INFO][c-205][ab.log.MyLogger] - Load conatct pages
+20:26:44.724 [INFO][c-196][ab.log.MyLogger] - Load Home login
+20:26:44.739 [DEBUG][c-197][ab.log.MyLogger] - Load Home pages
+20:27:04.894 [INFO][c-199][ab.log.MyLogger] - Load admin room pages

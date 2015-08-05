@@ -1,0 +1,44 @@
+10:13:51.001 [INFO][xec-1][ab.log.MyLogger] - Load Home login
+10:13:54.843 [DEBUG][xec-6][ab.log.MyLogger] - Load Home pages
+10:13:56.998 [DEBUG][xec-9][ab.log.MyLogger] - Load Home pages
+10:13:58.628 [INFO][xec-6][ab.log.MyLogger] - Load course pages
+10:14:28.500 [INFO][xec-2][ab.log.MyLogger] - Exit
+10:14:28.508 [DEBUG][xec-4][ab.log.MyLogger] - Load Home pages
+10:14:44.638 [INFO][xec-4][ab.log.MyLogger] - Load Home login
+10:14:54.209 [INFO][xec-7][ab.log.MyLogger] - Load Home login
+10:14:54.224 [DEBUG][xec-8][ab.log.MyLogger] - Load Home pages
+10:14:58.537 [INFO][xec-5][ab.log.MyLogger] - Exit
+10:14:58.541 [DEBUG][xec-2][ab.log.MyLogger] - Load Home pages
+10:15:03.904 [INFO][xec-6][ab.log.MyLogger] - Load course pages
+10:15:17.748 [INFO][xec-6][ab.log.MyLogger] - Load Home login
+10:15:17.758 [DEBUG][xec-3][ab.log.MyLogger] - Load Home pages
+10:15:32.230 [INFO][xec-6][ab.log.MyLogger] - Load About pages
+10:15:33.558 [INFO][xec-4][ab.log.MyLogger] - Load course pages
+10:15:39.273 [INFO][xec-2][ab.log.MyLogger] - Load course pages
+10:15:44.533 [INFO][xec-2][ab.log.MyLogger] - Exit
+10:15:44.536 [DEBUG][xec-7][ab.log.MyLogger] - Load Home pages
+10:15:56.048 [INFO][xec-7][ab.log.MyLogger] - Load Home login
+10:16:03.630 [INFO][xec-9][ab.log.MyLogger] - Load Home login
+10:16:03.637 [DEBUG][xec-3][ab.log.MyLogger] - Load Home pages
+10:16:08.883 [INFO][xec-8][ab.log.MyLogger] - Exit
+10:16:08.887 [DEBUG][xec-9][ab.log.MyLogger] - Load Home pages
+10:16:24.793 [INFO][xec-9][ab.log.MyLogger] - Load Home login
+10:18:07.196 [INFO][xec-5][ab.log.MyLogger] - Load Home login
+10:18:07.244 [DEBUG][xec-4][ab.log.MyLogger] - Load Home pages
+10:18:10.438 [INFO][xec-5][ab.log.MyLogger] - Load course pages
+10:18:27.829 [INFO][ec-10][ab.log.MyLogger] - Load Home login
+10:18:27.836 [DEBUG][xec-4][ab.log.MyLogger] - Load Home pages
+10:18:43.987 [INFO][xec-4][ab.log.MyLogger] - Load admin room pages
+10:18:48.991 [INFO][xec-2][ab.log.MyLogger] - Load banned user
+10:18:56.557 [INFO][ec-10][ab.log.MyLogger] - Edit user
+10:19:01.705 [INFO][xec-2][ab.log.MyLogger] - Load banned user
+10:19:52.069 [INFO][xec-7][ab.log.MyLogger] - Load admin room pages
+10:20:36.396 [INFO][xec-4][ab.log.MyLogger] - Exit
+10:20:36.401 [DEBUG][xec-8][ab.log.MyLogger] - Load Home pages
+10:20:42.784 [INFO][xec-8][ab.log.MyLogger] - Load Home login
+10:20:42.791 [DEBUG][ec-10][ab.log.MyLogger] - Load Home pages
+10:20:54.071 [INFO][xec-7][ab.log.MyLogger] - Load workroom pages
+10:22:24.429 [INFO][xec-3][ab.log.MyLogger] - Exit
+10:22:24.432 [DEBUG][xec-5][ab.log.MyLogger] - Load Home pages
+10:22:48.741 [INFO][xec-9][ab.log.MyLogger] - Exit
+10:22:48.788 [DEBUG][xec-6][ab.log.MyLogger] - Load Home pages

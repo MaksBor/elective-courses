@@ -1,0 +1,58 @@
+<taglib>
+  <tlib-version>1.0</tlib-version>
+  <jsp-version>2.0</jsp-version>
+  <short-name>My teg1</short-name>
+
+  
+   <tag>
+    <name>message</name>
+    <tag-class>com.epam.lab.servlet.teg.ShowMessage</tag-class>
+    <body-content>empty</body-content>
+  </tag>
+  
+    <tag>
+    <name>i18n</name>
+    <tag-class>com.epam.lab.servlet.teg.I18nClass</tag-class>
+    <body-content>empty</body-content>
+  	<attribute>
+       <name>id</name>
+    </attribute>
+  </tag>
+   <tag>
+    <name>all</name>
+    <tag-class>com.epam.lab.servlet.teg.AllUsers</tag-class>
+    <body-content>empty</body-content>
+  
+  </tag>
+     <tag>
+    <name>myjournal</name>
+    <tag-class>com.epam.lab.servlet.teg.MyJournal</tag-class>
+    <body-content>empty</body-content>
+  </tag>
+   <tag>
+    <name>mycourse</name>
+    <tag-class>com.epam.lab.servlet.teg.AllCourse</tag-class>
+    <body-content>empty</body-content>
+  </tag>
+  <tag>
+    <name>mylecturer</name>
+    <tag-class>com.epam.lab.servlet.teg.MyLecturer</tag-class>
+    <body-content>empty</body-content>
+  </tag>
+ 
+    <tag>
+    <name>journal</name>
+    <tag-class>com.epam.lab.servlet.teg.JournalLecture</tag-class>
+    <body-content>empty</body-content>
+  </tag>
+    <tag>
+    <name>showstudent</name>
+    <tag-class>com.epam.lab.servlet.teg.ShowStudent</tag-class>
+    <body-content>empty</body-content>
+  </tag>
+   <tag>
+    <name>mystudent</name>
+    <tag-class>com.epam.lab.servlet.teg.MyStudent</tag-class>
+    <body-content>empty</body-content>
+  </tag>
+</taglib>

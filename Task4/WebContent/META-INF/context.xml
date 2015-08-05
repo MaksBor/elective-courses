@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context>   
+   <Resource name="jdbc/my_database" 
+          auth="Container"
+          type="javax.sql.DataSource"
+         
+          username="root"
+          password="root"
+           maxActive="10" 
+                maxIdle="5" 
+                maxWait="10000"
+                 useUnicode="true"
+                 characterEncoding="Cp1251"
+          driverClassName="com.mysql.jdbc.Driver"
+          url="jdbc:mysql://localhost:3306/facultatives"/>
+       
+</Context>
